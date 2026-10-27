@@ -1,7 +1,5 @@
 # mock-java-server
 
-> **Intentionally vulnerable on branch `pr/create-user`. Interview use only. Do not deploy.**
-
 A small identity-style service (users in tenants) used for code-review exercises.
 
 ## Run
